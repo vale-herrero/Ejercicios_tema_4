@@ -1,5 +1,7 @@
 # Ejercicios_tema_4
 
+https://github.com/vale-herrero/Ejercicios_tema_4.git
+
 Ejercicio 1
 Desarrollar los algoritmos necesarios para generar un árbol de Huffman a partir de la siguiente tabla –para lo cual deberá calcular primero las frecuencias de cada carácter a partir de la can- tidad de apariciones del mismo–, para resolver las siguientes actividades:
  
